@@ -1,2 +1,2 @@
 # CS260
-CS 260 Fall 2023
+This is a repository for CS260 in fall of 2023
